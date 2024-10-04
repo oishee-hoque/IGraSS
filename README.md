@@ -2,7 +2,8 @@
 ### Usage
 
 #### Dataset
-
+We used PlanetScope optical satellite imagery to map the irrigation canals infrastructure network. The canal waterway data was obtained from the National Hydrography(NHD) Dataset, 
+which contains shapefiles of linestrings representing canal waterways.
 
 
 

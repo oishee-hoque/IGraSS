@@ -1,4 +1,4 @@
-# [IGraSS: Iterative Graph-constrained Semantic Segmentation](https://www.ijcai.org/proceedings/2025/1076)
+# [IGraSS: Iterative Graph-constrained Semantic Segmentation](https://www.ijcai.org/proceedings/2025/1076) (📍 IJCAI 2025)
 
 This repository contains an implementation of an iterative segmentation pipeline for extracting irrigation canal networks from satellite imagery.
 
@@ -169,20 +169,20 @@ The codebase was developed in a fixed filesystem layout and still contains hard-
 - Some defaults in CLI arguments reference machine-specific paths and should be overridden.
 - There is no pinned `requirements.txt` yet; dependency resolution may vary by platform.
 
-## Citation
+## 📄 Citation
 
+If you find this work useful, please cite:
+
+```bibtex
 @inproceedings{ijcai2025p1076,
   title     = {IGraSS: Learning to Identify Infrastructure Networks from Satellite Imagery by Iterative Graph-constrained Semantic Segmentation},
   author    = {Hoque, Oishee Bintey and Adiga, Abhijin and Adiga, Aniruddha and Chaudhary, Siddharth and Marathe, Madhav V. and Ravi, S.S. and Rajagopalan, Kirti and Wilson, Amanda and Swarup, Samarth},
-  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
-               Artificial Intelligence, {IJCAI-25}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  editor    = {James Kwok},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-25)},
   pages     = {9683--9691},
   year      = {2025},
-  month     = {8},
-  note      = {AI and Social Good},
   doi       = {10.24963/ijcai.2025/1076},
-  url       = {https://doi.org/10.24963/ijcai.2025/1076},
+  url       = {https://doi.org/10.24963/ijcai.2025/1076}
 }
+```
+
 

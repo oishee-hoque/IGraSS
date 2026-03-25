@@ -1,4 +1,4 @@
-# [IGraSS: Iterative Graph-constrained Semantic Segmentation](https://www.ijcai.org/proceedings/2025/1076) (📍 IJCAI 2025)
+# [IGraSS: Iterative Graph-constrained Semantic Segmentation](https://www.ijcai.org/proceedings/2025/1076) (📍 IJCAI 2025 )
 
 This repository contains an implementation of an iterative segmentation pipeline for extracting irrigation canal networks from satellite imagery.
 
